@@ -1,5 +1,4 @@
-Chapter 6: Addressing Ethical Considerations in AI Adoption for Small Business Sales
-====================================================================================
+
 
 In this chapter, we'll explore the ethical considerations that arise when using AI for small business sales and how to address them.
 

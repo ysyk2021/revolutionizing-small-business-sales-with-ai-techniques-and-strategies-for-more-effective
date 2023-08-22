@@ -1,5 +1,4 @@
-Chapter 3: Enhancing Sales Rep Productivity with AI
-===================================================
+
 
 AI-powered tools can revolutionize small business sales by enhancing sales rep productivity through automating low-value tasks and providing personalized recommendations for sales strategy. In this chapter, we will explore how AI can be used to improve sales rep productivity in small business sales.
 

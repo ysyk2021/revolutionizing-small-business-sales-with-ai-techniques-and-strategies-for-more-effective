@@ -1,5 +1,4 @@
-Personalized Recommendations for Lead Scoring Strategies
-=================================================================================================================
+
 
 In this chapter, we'll explore personalized recommendations for using machine learning to improve lead scoring strategies.
 

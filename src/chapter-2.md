@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI Technology for Small Business Sales
-===============================================================
+
 
 In this chapter, we'll explore the capabilities of AI technology and how it can be used to improve small business sales.
 

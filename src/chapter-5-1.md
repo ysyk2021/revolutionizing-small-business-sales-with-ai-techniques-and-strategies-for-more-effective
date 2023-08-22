@@ -1,5 +1,4 @@
-Use of Machine Learning for Analyzing Customer Behavior and Engagement to Score Leads
-==============================================================================================================================================
+
 
 Machine learning algorithms can analyze vast amounts of data on customer behavior and engagement to score leads based on their likelihood of conversion. This chapter will explore how machine learning can be used to analyze customer behavior and engagement to improve lead scoring in small business sales.
 

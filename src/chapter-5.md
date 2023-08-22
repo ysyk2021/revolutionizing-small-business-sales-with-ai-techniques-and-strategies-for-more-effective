@@ -1,5 +1,4 @@
-Chapter 4: Improving Lead Scoring with Machine Learning
-=======================================================
+
 
 In this chapter, we'll explore how machine learning can be used to improve lead scoring and provide personalized recommendations for lead scoring strategies.
 
