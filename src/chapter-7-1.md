@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the ethical considerations that small businesses should keep in mind when adopting AI technology for sales.
 
 The Importance of Ethical Considerations in AI Adoption

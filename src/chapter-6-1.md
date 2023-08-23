@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore how AI can be used to streamline the sales process, including automated lead nurturing and follow-up.
 
 Automated Lead Nurturing

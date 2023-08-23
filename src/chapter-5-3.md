@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore how machine learning can be used to improve lead scoring and the potential challenges and ethical considerations that come with it.
 
 What is Lead Scoring?

@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore potential biases that can arise in AI algorithms used in small business sales and how to address them.
 
 Understanding Bias in AI Algorithms

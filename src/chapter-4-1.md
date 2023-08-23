@@ -1,5 +1,4 @@
 
-
 AI-powered tools can enhance sales rep productivity by automating low-value tasks and providing personalized recommendations for sales strategy. This chapter will explore how AI can be used to improve sales rep productivity in small business sales.
 
 Automation of Low-Value Tasks

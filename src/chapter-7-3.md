@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the importance of transparency and accountability in AI adoption for small business lead generation and how to ensure it.
 
 The Importance of Transparency and Accountability in AI Adoption

@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore how AI technology can be used to improve lead generation for small businesses.
 
 Traditional Lead Generation Methods

@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore what AI technology is and how it can be used to revolutionize small business sales.
 
 What is AI Technology?

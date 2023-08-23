@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore how machine learning can be used to improve lead scoring and provide personalized recommendations for lead scoring strategies.
 
 Use of Machine Learning for Analyzing Customer Behavior and Engagement to Score Leads
