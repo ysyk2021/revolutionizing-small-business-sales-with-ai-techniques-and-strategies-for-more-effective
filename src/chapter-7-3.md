@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability in AI Adoption for Small Business Lead Generation
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of ensuring transparency and accountability in AI adoption for small business lead generation. Transparency and accountability are key principles to build trust, mitigate risks, and maximize the benefits of AI techniques in the sales process.
 

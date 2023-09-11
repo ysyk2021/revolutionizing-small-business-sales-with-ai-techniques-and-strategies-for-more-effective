@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Sales Process Improvement
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the potential limitations and ethical considerations that small businesses should be aware of when utilizing AI techniques for sales process improvement and more effective lead generation.
 

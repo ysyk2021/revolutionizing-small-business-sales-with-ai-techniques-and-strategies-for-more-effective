@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations When Using AI for Small Business Sales
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that small businesses must address when utilizing AI for sales and lead generation. As AI continues to play an integral role in revolutionizing sales strategies, it is crucial to prioritize ethical practices to maintain customer trust and ensure responsible AI usage.
 

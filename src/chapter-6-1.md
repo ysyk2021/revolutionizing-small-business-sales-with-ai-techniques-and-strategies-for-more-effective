@@ -1,5 +1,4 @@
-Chapter: Use of AI for Streamlining the Sales Process, Including Automated Lead Nurturing and Follow-Up
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can leverage AI techniques to streamline their sales process, specifically focusing on automated lead nurturing and follow-up. These AI-powered strategies can enhance efficiency, improve customer engagement, and drive more effective lead generation.
 

@@ -1,5 +1,4 @@
-Chapter: Use of Machine Learning for Analyzing Customer Behavior and Engagement to Score Leads
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of machine learning techniques to analyze customer behavior and engagement, enabling small businesses to effectively score leads. By leveraging AI algorithms, businesses can gain valuable insights into customer interactions, preferences, and buying intentions to prioritize and convert high-quality leads.
 

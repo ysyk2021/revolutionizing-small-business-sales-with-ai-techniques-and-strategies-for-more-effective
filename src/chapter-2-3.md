@@ -1,5 +1,4 @@
-Chapter: Advantages of AI for Improving Small Business Lead Generation
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages that AI technology brings to small business lead generation. We will discuss how AI enhances lead generation strategies, improves efficiency, and helps small businesses achieve better results in acquiring high-quality leads.
 

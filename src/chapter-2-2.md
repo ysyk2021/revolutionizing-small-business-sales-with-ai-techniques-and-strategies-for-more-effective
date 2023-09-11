@@ -1,5 +1,4 @@
-Chapter: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore three key types of AI that play a crucial role in revolutionizing small business sales: Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). We will discuss the fundamentals of each type and their applications in improving lead generation and driving sales success.
 

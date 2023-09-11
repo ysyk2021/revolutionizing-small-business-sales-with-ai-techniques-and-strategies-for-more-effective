@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Small Business Sales
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the world of AI technology and explore its capabilities for revolutionizing small business sales. We will discuss the fundamental principles of AI, its applications in sales, and how it can enhance lead generation strategies for small businesses.
 
